@@ -1,4 +1,3 @@
-# new change for the trial1
+# Obstacle Odessey 
 
-
-
+it is a simple pygame project.
